@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VIBGYOR</string>
+    <string name ="textView2">RED</string>
+    <string name ="textView3">ORANGE</string>
+    <string name ="textView4">YELLOW</string>
+    <string name ="textView5">GREEN</string>
+    <string name ="textView6">BLUE</string>
+    <string name ="textView7">INDIGO</string>
+    <string name ="textView8">VIOLET</string>
+</resources>
